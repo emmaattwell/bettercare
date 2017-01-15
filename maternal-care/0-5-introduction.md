@@ -9,7 +9,7 @@ published: true
 
 ## About the Bettercare series
 
-Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works. Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
+Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works, Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
 
 Bettercare is now an independent Non-Profit and Public Benefit Organisation. Our aim is to continue creating accessible educational resources that are able to empower health care workers in South Africa and around the world.
 
