@@ -9,7 +9,7 @@ published: true
 
 *Maternal Care: A health professional’s guide to pregnancy and childbirth*
 
-First published in 2010 by [Bettercare](http://bettercare.co.za), a division of [Electric Book Works](http://www.electricbookworks.com). Now published by Bettercare, a Non-Profit and Public Benefit Organisation. Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout), 16 Jan 2017
+First published in 2010 by [Electric Book Works](http://www.electricbookworks.com). Now published by Bettercare, a Non-Profit and Public Benefit Organisation. Updated 25 Mar 2011, 1 Aug 2011 (layout), 15 Aug 2012, 31 Mar 2014, 11 Aug 2014, 23 Feb 2015 (layout), 16 Jan 2017.
 
 Text © Perinatal Education Programme
 
