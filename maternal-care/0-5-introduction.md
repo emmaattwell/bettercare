@@ -9,9 +9,9 @@ published: true
 
 ## About the Bettercare series
 
-Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works. Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
+Originally developed by the [Perinatal Education Programme](http://pepcourse.co.za/), and published by Electric Book Works, Bettercare material is widely used by government and private hospitals, non-profit organisations and training institutions in South Africa and other countries. Our learning programmes bring the latest developments in child, perinatal and HIV care to healthcare professionals working in challenging circumstances. We make high-quality, affordable and up-to-date training possible in every facility, regardless of its history, resources or geographical location.
 
-Bettercare is now an independent Non-Profit and Public Benefit Organisation. Our aim is to continue creating accessible educational resources that are able to empower health care workers in South Africa and around the world.
+Bettercare is now an independent Non-Profit and Public Benefit Organisation. Our aim is to continue creating accessible educational resources that are able to empower healthcare workers in South Africa and around the world.
 
 Our methodology, developed by the Perinatal Education Programme since 1989, has been [proven in controlled studies](http://bettercare.co.za/about/research/) to improve knowledge, skills and patient care practices in health professionals.
 
@@ -29,11 +29,11 @@ Bettercare learning programmes have helped thousands of nurses, midwives, doctor
 
 The Bettercare Learning Station is a simple website that can be used on tablets, computers or phones. It can also be set up as a dedicated touchscreen Learning Station in your institution. 
 
-The Learning Station is freely accessible online and includes all of the courses that we currently have. The material provided is always the most up to date and relevant information and includes the full course content as well as the tests/quizzes which are provide in the books at the end of each chapter. Each chapter has 20 multiple choice quiz which can be taken. All students are able to make use of this to supplement their study by using their mobile phone or computer to read while they are online.
+The Learning Station is freely accessible online and includes all of the courses that we currently have. The material provided is always the most up-to-date and relevant information and includes the full course content as well as the tests/quizzes which are provided at the end of each chapter. Each test consists of 20 multiple-choice questions which can be answered. All students are able to make use of the tests to supplement their study, using their mobile phone or computer to read while they are online.
 
 All users may also complete the provided chapter tests/quizzes by registering on the website for free. The process is quick, only requiring their email address or mobile number and a password. We can then recognise the test results for each user by their mobile number or email address, depending on which information was given. Users are then able to take the test and receive a score of their results plus advice regarding where they went wrong. At the bottom of the results page each user will have the option to submit their results for points.
 
-The Bettercare methodology is around students empowering themselves and being able to study on their own without feeling as though they are being watched. Only when they believe they have mastered a subject do they submit their results and the users are in full control of this process. Built into our privacy policy is the clause that only the information which users have agreed to make available may be used to generate reports. 
+The Bettercare methodology is all about students empowering themselves and being able to study on their own without feeling as though they are being watched. Only when they believe they have mastered a subject do they submit their results and the users are in full control of this process. Built into our privacy policy is the clause that only the information which users have agreed to make available may be used to generate reports. 
 
 You can access the learning station here: [ls.bettercare.co.za](http://ls.bettercare.co.za/)
 
